@@ -1,0 +1,9 @@
+#ignore
+*
+
+#un-ignore
+!.gitignore
+!hugo.toml
+!public/
+!layouts/
+!archetypes/
