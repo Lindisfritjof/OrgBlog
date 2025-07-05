@@ -4,6 +4,6 @@
 #un-ignore
 !.gitignore
 !hugo.toml
-!public/
-!layouts/
-!archetypes/
+!/public
+!/layouts
+!/archetypes
